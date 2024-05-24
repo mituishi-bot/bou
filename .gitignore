@@ -27,7 +27,7 @@ dist/
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw
 
 # misc
 *.log
